@@ -1,6 +1,8 @@
 Ankit_ads_covid-19
 ==============================
 
+1. Setup and further instructions are given in README_ankit.md
+
 applied data science on covid-19 data
 
 Project Organization
@@ -56,3 +58,5 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 # ADS_Covid_19_analysis
+
+--------
